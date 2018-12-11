@@ -11,3 +11,11 @@ GENERAL KNOWLEDGE
     Inheritance is an object-oriented pattern. It is used to organize attributes and behaviours in one place.
     It is important in software development because it makes your code cleaner, easier to understand,  
     and centralized when something is being added or changed.
+
+3. What is the main benefit of scoping?
+
+    Scoping can be used to limit a variable's visibility to a range of functions convenient for the programmer.
+    Dynamic Scoping is a global identifier and can be beneficial because it can facilitate patching, improve implementation, 
+    and facilitate configuration.
+    Static/Lexical Scoping sets the range of functionality of a variable so it can be referenced only within the
+    block of code it is defined.
