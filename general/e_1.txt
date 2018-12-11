@@ -23,6 +23,15 @@ GENERAL KNOWLEDGE
 4. Explain the difference between a LEFT & RIGHT join
 
     An SQL JOIN combines rows from two or more tables with matching fields, specified by whoever is writing the JOIN.
-    A left join returns rows on the left table, even without matching fields in the right table.
-    A right join does the same thing, vice versa.
+    A Left Join returns rows on the left table, even without matching fields in the right table.
+    A Right Join does the same thing, vice versa.
 
+5. What is the difference between a hash and an array? When would you use either?
+
+    A Hash is an unordered list of key-value pairs. It is indexed using arbitrary chosen keys of any object type.
+    Values in a hash are called by using the name of the hash and the desired key.
+    You would use a hash if you wanted to list items with an attribute, in an order of your choosing.
+
+    An Array is an ordered collection of integer-indexed objects. Indexing in an array starts at 0. 
+    Items in an array are called by using the name of the array and the desired index.
+    You would use an array if you wanted to utilize a list of objects where the order is important.
