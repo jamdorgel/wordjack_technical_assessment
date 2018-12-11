@@ -5,3 +5,9 @@ GENERAL KNOWLEDGE
     It is an item that depending on the programming language has all the benefits of the other variables.
     A first class object can be created, destroyed, passed to a function, and returned as a value dynamically.
     There are no restrictions on a first class object.
+
+2. Describe the purpose of inheritance. Why is this important in software development?
+
+    Inheritance is an object-oriented pattern. It is used to organize attributes and behaviours in one place.
+    It is important in software development because it makes your code cleaner, easier to understand,  
+    and centralized when something is being added or changed.
