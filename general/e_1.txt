@@ -1,0 +1,7 @@
+GENERAL KNOWLEDGE
+
+1. Explain what a first class object is
+
+    It is an item that depending on the programming language has all the benefits of the other variables.
+    A first class object can be created, destroyed, passed to a function, and returned as a value dynamically.
+    There are no restrictions on a first class object.
