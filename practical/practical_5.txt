@@ -1,0 +1,6 @@
+Please see practical_5.pdf to view my example of how the current data structure can be improved.
+
+    I created 2 separate tables, one for Humans and a second for Pets by dividing the attributes on the original table.
+    Then I created a new column for Pets labelled HUMAN_ID.
+    This way by adding an ID for the separate categories, 
+    you can still tell them apart while connecting the Pets to their Humans.
