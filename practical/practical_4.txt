@@ -1,5 +1,5 @@
 4. What may happen if Foo.find(info[:id]) is called multiple times concurrently with the following code?
 
-    I believe that since the function is being run in batches of 3 and those batches are happening concurrently,
-    if Foo.find(info[:id]) is called multiple times, it could result in duplicates; the subscriber may receive more
-    than 1 of the same email.
+    I believe that since the function is being run in batches of 3, 
+    if Foo.find(info[:id]) is called multiple times concurrently, 
+    it could result in duplicates; the subscriber may receive more than 1 of the same email.

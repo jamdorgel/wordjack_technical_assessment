@@ -9,7 +9,7 @@ GENERAL KNOWLEDGE
 2. Describe the purpose of inheritance. Why is this important in software development?
 
     Inheritance is an object-oriented pattern. It is used to organize attributes and behaviours in one place.
-    It is important in software development because it makes your code cleaner, easier to understand,  
+    It is important in software development because it makes your code cleaner, therefore easier to understand,  
     and centralized for when something is being added or changed.
 
 3. What is the main benefit of scoping?
